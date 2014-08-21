@@ -1,4 +1,4 @@
 gpm-concept
 ===========
 
-some fancy description
+CCNC proposal. Work in progress.
