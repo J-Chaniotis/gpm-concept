@@ -1,4 +1,1 @@
-gpm-concept
-===========
-
-CCNC proposal. Work in progress.
+Grammar Packaged Modules
